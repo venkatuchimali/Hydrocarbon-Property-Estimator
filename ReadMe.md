@@ -14,7 +14,7 @@ SMILES list of hydrocarbons from Table 7–14 in the paper are included in `SMIL
 
 ## Usage
 1. Install dependencies (see `requirements.txt`).
-2. Place your SMILES input in `SMILES_List.txt`.
+2. Place your SMILES input in `smiles_list.txt`.
 3. Run the Python script:
 ```bash
 
